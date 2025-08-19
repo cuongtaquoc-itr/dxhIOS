@@ -1,0 +1,22 @@
+{
+  "name": "dxhIOS",
+  "version": "0.1.0",
+  "summary": "A short description of dxhIOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cuongtaquoc@itrvn.com/dxhIOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cuongtaquoc@itrvn.com": "cuongtaquoc@itrvn.com"
+  },
+  "source": {
+    "git": "https://github.com/cuongtaquoc@itrvn.com/dxhIOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "dxhIOS/Classes/**/*"
+}
